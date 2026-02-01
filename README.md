@@ -1,2 +1,2 @@
-# LangChain
-A langchain repository where i did projects about LangChain
+# LangGraph
+A LangGraph repository where i did projects about LangGraph
